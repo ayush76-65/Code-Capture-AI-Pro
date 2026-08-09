@@ -69,8 +69,8 @@ Simply press **`Alt + V`** on any video page (or **`Alt + C`** to drag-select an
 
 1. **Clone or download this repository**
    ```bash
-   git clone https://github.com/udaygautam/code-capture-ai-pro.git
-   cd code-capture-ai-pro
+   git clone https://github.com/ayush76-65/Code-Capture-AI-Pro.git
+   cd Code-Capture-AI-Pro
    ```
 
 2. **Install dependencies & build**
